@@ -13,6 +13,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hackerone-insight.git
-   cd hackerone-insight
+   git clone https://github.com/0xlipon/HackerOneHarvest.git
+   cd HackerOneHarvest
+   
 2. **Change API_KEY***
