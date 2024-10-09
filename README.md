@@ -18,5 +18,5 @@
    
 2. **Change API_KEY***
    ```bash
-   ('username', 'api_key')
+   ('username', 'api_key')   // modify on line 5
    ```
