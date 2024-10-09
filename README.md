@@ -1,4 +1,4 @@
-# 🌐 HackerOne Insight: Bug Bounty Program Data Downloader
+# 🌐 Bug Bounty Program Data Downloader
 
 **HackerOne Insight** is a powerful Python tool designed for security researchers and bug bounty hunters. This script allows users to effortlessly download comprehensive details of bug bounty programs from HackerOne, including subdomains, domains, and wildcard information. With its fast and accurate data retrieval capabilities, you can enhance your bug hunting strategies and stay ahead in the cybersecurity landscape.
 
