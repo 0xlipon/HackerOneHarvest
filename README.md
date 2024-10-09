@@ -17,3 +17,6 @@
    cd HackerOneHarvest
    
 2. **Change API_KEY***
+   ```bash
+   ('username', 'api_key')
+   ```
