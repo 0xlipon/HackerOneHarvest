@@ -2,7 +2,7 @@ import requests
 import os
 import re  # Import regex library for domain extraction
 
-auth = ('username', 'api_key')
+auth = ('rosanna0002', 'VhMIpTHPzHbuS9QDFh5gpi30cT4vCo4WOVe8IdJM2Rg=')
 h2 = ""
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
